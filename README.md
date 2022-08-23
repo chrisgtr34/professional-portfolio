@@ -3,7 +3,7 @@ In this challenge, I was tasked to created my own professional portfolio.
 
 I utilized HTML and CSS to design my page. 
 
-![alt screen shot](./Screen%20Shot%202022-07-18%20at%206.26.02%20PM.png)
+![alt screen shot](./Screen Shot 2022-08-22 at 9.41.24 PM.png)
 
-[Deploy Application](https://github.com/chrisgtr34/professional-portfolio/)
-[GitHub Repository](https://github.com/chrisgtr34/professional-portfolio/)
+[Deploy Application](https://robdom87.github.io/FitCal/)
+[GitHub Repository](https://github.com/Robdom87/FitCal/)
